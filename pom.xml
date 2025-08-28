@@ -97,13 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.9.194:9980/repository/axisbank-releases/</url>
+	      <url>http://13.126.69.220:9980/Deekshatechnologies/repository/axis-releases/</url>
+
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.9.194:9980/repository/axisbank-snapshot/</url>
+	      <url>http://13.126.69.220:9980/Deekshatechnologies/repository/axis-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
